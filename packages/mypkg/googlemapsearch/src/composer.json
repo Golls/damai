@@ -1,0 +1,7 @@
+{
+    "name": "mypkg/googlemapsearch",
+    "description": "search map by Google API",
+    "type": "library",
+    "license": "MIT",
+    "require": {}
+}
